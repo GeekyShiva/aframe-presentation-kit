@@ -16,8 +16,6 @@ environments
 <!--Notes
 - Next platform. From PCs -> Smartphones -> VR
 - Change how we work + play + communicate digitally
-- AR/VR advisor Digi-Capital forecasts $120B market by 2020, half Asia
-- Tell your stories about VR (e.g., I hit someone on the head while playing Fruit Ninja)
 -->
 
 ---
@@ -40,10 +38,6 @@ environments
 - Range from free to $899
 - Tethered and untethered
 - Powered by smartphone, gaming consoles, and PCs
-- Positional tracking vs. rotational only
-- Controllers (3DoF vs. fully tracked) vs. headset only
-- Inside-out vs. outside-in tracking systems
-- **HTC Vive** currently the most compelling
 -->
 
 ---
@@ -112,8 +106,8 @@ https://w3c.github.io/webvr/
 - Working W3C community group
 - Initial WebVR API by Mozilla (Vlad V.)
 - Mozilla, Google, Samsung, Microsoft, community currently drafting WebVR 1.0 API
-- Optimized rendering path to headsets, 90fps+
-- Access position and rotation (pose) data
+- .Optimized rendering path to headsets, 90fps+
+- .Access position and rotation (pose) data
 -->
 
 ---
@@ -146,18 +140,6 @@ https://w3c.github.io/webvr/
 - Samsung: GearVR browser, with a flag
 - Mobile Polyfill: use device motion/orientation sensors to polyfill on smartphones
 -->
-
----
-
-## Applications
-
-- Long tail experiences
-- E-commerce
-- Social media
-
-<!--Notes
--->
-
 
 ------
 
