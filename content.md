@@ -4,7 +4,7 @@
 
 ## Building Blocks for the VR Web
 
-@you / 01 January 2016 / San Francisco, CA
+Ram / Mozilla India Meetup 2016
 
 ------
 
