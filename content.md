@@ -218,36 +218,6 @@ A web framework for building virtual reality experiences with HTML
 
 ---
 
-## With MagicaVoxel
-
-<div data-aframe-scene="scenes/magicavoxel.html"></div>
-
-<!--Notes
-- Open the A-Frame Inspector with `<ctrl> + <alt> + i`
--->
-
----
-
-<!-- .slide: data-background-video="media/video/link-traversal.mp4" -->
-
-<!--Notes
--->
-
----
-
-<!-- .slide: data-background-video="media/video/roomscale.mp4" -->
-
-<!--Notes
--->
-
----
-
-<!-- .slide: data-background-video="media/video/local-multiplayer.mp4" -->
-
-<!--Notes
--->
-
-------
 
 # Why A-Frame?
 
