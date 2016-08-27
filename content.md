@@ -554,7 +554,7 @@ AFRAME.registerComponent('crazy-position', {
 - Try it out [aframe.io](https://aframe.io)
 - Join us on Slack [aframevr-slack.herokuapp.com](https://aframevr-slack.herokuapp.com/)
 - Follow us [@aframevr](https://twitter.com/aframevr)
-- Ram | @ram_gurumukhi
+- Ram | [@ram_gurumukhi](https://twitter.com/ram_gurumukhi)
 
 <!--Notes
 -->
