@@ -534,19 +534,6 @@ AFRAME.registerComponent('crazy-position', {
 <!--Notes
 -->
 
----
-
-## Scenes by Organizations
-
-- [360syria.com](https://360syria.com) (Amnesty International UK)
-- [apps.npr.org/rockymountain-vr](http://apps.npr.org/rockymountain-vr/)
-- [gurivr.com](https://gurivr.com/) (The Coral Project)
-- [washingtonpost.com/graphics/business/mars-journey](https://www.washingtonpost.com/graphics/business/mars-journey/)
-- [shopifyvr.myshopify.com](https://shopifyvr.myshopify.com/)
-
-<!--Notes
--->
-
 ------
 
 # Augmented Reality
