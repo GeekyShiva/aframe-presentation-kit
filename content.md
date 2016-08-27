@@ -516,6 +516,8 @@ AFRAME.registerComponent('crazy-position', {
 - **Github**: 60 contributors, 2800 stargazers
 - **Slack**: 1300 members
 - **Content**: Hundreds of projects featured on `awesome-aframe` repository and *A Week of A-Frame*
+- **Stackoverflow**: Q & A
+- **Recognition**: A Week of A-Frame
 
 <!--Notes
 -->
@@ -552,6 +554,7 @@ AFRAME.registerComponent('crazy-position', {
 - Try it out [aframe.io](https://aframe.io)
 - Join us on Slack [aframevr-slack.herokuapp.com](https://aframevr-slack.herokuapp.com/)
 - Follow us [@aframevr](https://twitter.com/aframevr)
+- Ram | @ram_gurumukhi
 
 <!--Notes
 -->
