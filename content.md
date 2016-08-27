@@ -555,8 +555,16 @@ AFRAME.registerComponent('crazy-position', {
 - Join us on Slack [aframevr-slack.herokuapp.com](https://aframevr-slack.herokuapp.com/)
 - Follow us [@aframevr](https://twitter.com/aframevr)
 
+<!--Notes
+-->
+------
+
+<!-- .slide: data-background="media/img/scene-collage.jpg" data-state="background-low-opacity" style="background-color: rgba(239, 45, 94, 0.9); color: #EEE" -->
+
+# Thanks  <!-- .element: style="color: #FFF" -->
+
 - Ram | [@ram_gurumukhi](https://twitter.com/ram_gurumukhi)
-- Resources : https://public.etherpad-mozilla.org/p/webvr-india
+- Resources : [webvr-india etherpad](https://public.etherpad-mozilla.org/p/webvr-india)
 
 <!--Notes
 -->
